@@ -2,7 +2,7 @@
 ## starting points are random
 ## the target shifts out from under the population instantaneously
 ## lines are printed only when there is an increase in population fitness
-## Written by Shanan E. Peters, 2009.10.01
+## Written by Shanan E. Peters
 
 #######  VARIABLES THAT AFFECT HOW THE SIMULATION BEHAVES ##################################################
 gen.size=15 #<<<------- FECUNDITY: generation size scalar
